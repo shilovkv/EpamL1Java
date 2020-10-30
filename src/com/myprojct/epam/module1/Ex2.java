@@ -1,6 +1,5 @@
 package com.myprojct.epam.module1;
 
-import java.util.IllegalFormatException;
 import java.util.Scanner;
 
 public class Ex2 {
