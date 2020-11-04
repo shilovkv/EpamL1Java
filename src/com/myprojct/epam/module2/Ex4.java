@@ -21,5 +21,4 @@ public class Ex4 {
             System.out.println("The brick is bigger than the window");
         }
     }
-    
 }
