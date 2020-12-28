@@ -1,4 +1,4 @@
-package com.myprojct.epam.module3;
+package com.myprojct.epam.stage1.module3;
 
 public class Ex6 {
     public static void main(String[] args) {

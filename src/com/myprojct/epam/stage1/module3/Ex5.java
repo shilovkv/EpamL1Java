@@ -1,4 +1,4 @@
-package com.myprojct.epam.module3;
+package com.myprojct.epam.stage1.module3;
 
 import java.util.Scanner;
 
